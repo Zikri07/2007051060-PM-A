@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent_Activity</string>
+        <string name="hallo">Selamat kamu berhasil berpindah halaman </string>
+
+</resources>
